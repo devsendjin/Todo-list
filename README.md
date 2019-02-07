@@ -10,4 +10,3 @@ You should have *[Node.js](https://nodejs.org/en/)*, version 10.15.1 or above
 > npm start
 
 #### [DEMO](https://55kmpmrpx.codesandbox.io/)
->>>>>>> created Todo app
