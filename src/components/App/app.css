@@ -1,0 +1,10 @@
+.todo-app { 
+  margin: 2rem auto  0 auto;
+  max-width: 560px;
+}
+
+.top-panel {
+  margin: 1rem 0;
+  display: flex;
+  justify-content: space-between;
+}
